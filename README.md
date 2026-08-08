@@ -93,7 +93,7 @@ The notebook includes matplotlib charts for every SQL business question — reve
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="images/Average_Purchase_Amount_Standard_vs_Express.png" width="380"/><br/>
+      <img src="Average Purchase Amount Standard vs Express.png" width="380"/><br/>
       <sub><b>Average Purchase Amount: Standard vs. Express Shipping</b></sub>
     </td>
   </tr>
