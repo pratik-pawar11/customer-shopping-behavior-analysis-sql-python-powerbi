@@ -87,7 +87,7 @@ The notebook includes matplotlib charts for every SQL business question — reve
       <sub><b>Total Revenue: Subscribers vs. Non-Subscribers</b></sub>
     </td>
     <td align="center">
-      <img src="images/Top_5_Products_by_Average_Review_Rating.png" width="380"/><br/>
+      <img src="Top 5 Products by Average Review Rating.png" width="380"/><br/>
       <sub><b>Top 5 Products by Average Review Rating</b></sub>
     </td>
   </tr>
