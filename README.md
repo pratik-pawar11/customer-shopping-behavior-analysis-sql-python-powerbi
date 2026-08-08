@@ -83,7 +83,7 @@ The notebook includes matplotlib charts for every SQL business question — reve
 <table>
   <tr>
     <td align="center">
-      <img src="images/Total_Revenue_Subscribers_vs_Non-Subscribers.png" width="380"/><br/>
+      <img src="Total Revenue Subscribers vs Non-Subscribers.png" width="380"/><br/>
       <sub><b>Total Revenue: Subscribers vs. Non-Subscribers</b></sub>
     </td>
     <td align="center">
