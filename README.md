@@ -140,12 +140,13 @@ The notebook includes matplotlib charts for every SQL business question — reve
 
 ---
 
-## 📜  License
+
+## 📜 License
 
 MIT — feel free to fork, star, and use this in your own portfolio.
 
 ---
 
-## 👨‍💻  About
+## 👨‍💻 About
 
 Data Analyst portfolio project covering the full analytics lifecycle: data cleaning, SQL analysis, visualization, and business reporting.
